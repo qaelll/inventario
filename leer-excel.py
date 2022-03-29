@@ -7,10 +7,10 @@ import openpyxl
 import xlsxwriter
 from seaborn import load_dataset
 #leo el archivo con todas las hojas (se puede cambiar el archivo de origen)
-archivo = r"C:\Users\trpblg\Downloads\inventario\slees.xlsx"
+archivo = r"C:\Users\...."
 
 #leo el archivo donde voy a escribir y a la vez lo preparo para la escritura
-archivo2= r"C:\Users\trpblg\Downloads\inventario\destino.xlsx"
+archivo2= r"C:\Users\......."
 
 #declaro arrays para poder usarlos mas adelante para buscar en las paginas y construir el dataframe que luego se insertara en el excel
 #Modificar el nombre de columnas dependiendo del excel de entrada 
