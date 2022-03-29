@@ -5,3 +5,6 @@ Leera un excel de 2 columnas en las cuales estara en la columna 1 el nombre del 
 
 Simplemente modificamos la variable "archivo" para indicar el archivo de origen 
 Modificamos tambien las variables paginas y columnas tal y como esta descrito en el script
+
+
+Mi primera toma de contacto con python, seguro que se puede hacer mejor, pero es lo mejor que he podido hacer con lo que se
